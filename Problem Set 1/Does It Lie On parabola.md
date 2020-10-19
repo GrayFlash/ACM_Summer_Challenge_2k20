@@ -1,6 +1,6 @@
 You are given a parabola  x2 = 4*a*y
 
-
+<img src="https://he-s3.s3.amazonaws.com/media/uploads/a502a3c3-cb3e-4183-aba1-ba14711a0704.png"  width="25%" height="25%" />
  
 
 Just Find if given point P(X,Y) lies on this parabola or not
